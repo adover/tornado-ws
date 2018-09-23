@@ -8,8 +8,8 @@ Some code taken from [Hiroakis Tornado Websocket Example](https://github.com/hir
 
 ## Installation
 
-    1. Clone this repo
-    2. Install the requirements
-    3. Get an API key/secret from Bittrex, and an account if you don't already have one 🙄
-    4. `python app.py` to run the app
-    5. Start consuming data
+1. Clone this repo
+2. Install the requirements
+3. Get an API key/secret from Bittrex, and an account if you don't already have one 🙄
+4. `python app.py` to run the app
+5. Start consuming data
